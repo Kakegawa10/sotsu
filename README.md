@@ -12,7 +12,7 @@
     ```bash
     cd python
     pip install -r requirements.txt
-   
+    ```
 
 3. ゲームを実行：
     ```bash
